@@ -1,0 +1,26 @@
+<?php 
+    $noticias = new Noticias($mysql);
+    $imagenes = new Imagenes($mysql);
+    $categorias = new Categorias($mysql);
+    $noticiasService = new NoticiasService($noticias, $imagenes, $categorias);
+    $listaNovedades = $noticiasService->listByCodigoCategoria(6, 3);
+?>
+                <h3 class="sidebarDestacados"><span>Novedades</span></h3>
+                <div class="paddingContainer">
+                
+                    <ul class="sidebarListaNovedades">
+                    <?php foreach($listaNovedades as $row) { ?>                        
+                        <li class="sidebarNovedad">
+                            <a href="noticia.php?codigo=<?= $row['codigo'] ?>">
+                                <p class="sidebarMiniaturaNovedad">
+                                    <img class="sidebarMiniaturaNovedad" src="static/images/fotos/<?= $row["listaImagenes"][0]["archivo"] ?>" class="" alt="<?= $row["listaImagenes"][0]["archivo"] ?>">
+                                </p>
+                                <h4 class="sidebarNovedadTitle"><?= $row['titulo'] ?></h4>
+                                <p class="sidebarNovedadResumen">
+                                    <?= ViewHelper::subString($row['descripcion'], 100) ?>...
+                                </p>
+                            </a>
+                        </li>
+                    <?php } // foreach ?>                
+                    </ul>
+                </div>

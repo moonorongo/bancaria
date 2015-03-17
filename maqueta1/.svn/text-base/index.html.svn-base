@@ -1,0 +1,269 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>La Bancaria - Bahía Blanca</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="keywords" content="">  
+    <meta name="description" content="">
+
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/megadrop.css">
+    
+    <script src="js/jquery-1.9.1.js"></script>
+    <script src="js/megadrop_scripts.js"></script>
+
+
+</head>
+
+    <body>
+        <div class="headerContainer" style="background-color: #00a178; height: 10px; margin-top: 0"></div>
+        <div id="headerContainer" class="headerContainer">
+            <div id="header" class="header">
+                <div class="headerLogo">
+                    <img src="images/template/logo.png" />
+                </div>
+                <div class="headerMenu">
+                    <ul class="nav animated">
+                        <li><a href="#">Inicio</a></li>
+                        <li><a href="#">Institucional</a></li>
+                        <li><a href="#">Secciones</a>
+                        <div class="container-1">
+                            <div class="col1">
+                                <a href="#" class="subMenuLink">Notas</a>
+                                <a href="#" class="subMenuLink">Gremiales</a>
+                                <a href="#" class="subMenuLink">Acci&oacute;n Social</a>
+                                <a href="#" class="subMenuLink">Cultura</a>
+                                <a href="#" class="subMenuLink">Salud</a>
+                            </div>
+                        </div>
+                        </li>
+                        <li><a href="#">Contacto</a></li>
+                    </ul>                    
+                </div>
+            </div>
+        </div>
+        
+        
+        <div id="content" class="content">
+            <div id="sidebar" class="sidebar">
+                <div class="paddingContainer">
+                    <input type="text" value="" name="s" id="s" placeholder="Para buscar escribe algo y pulsa Enter" class="searchBox" />
+                </div>
+                
+                <h3 class="sidebarDestacados"><span>Novedades</span></h3>
+                <div class="paddingContainer">
+                
+                    <ul class="sidebarListaNovedades">
+                    
+                        <li class="sidebarNovedad">
+                            <a href="#">
+                                <p class="sidebarMiniaturaNovedad"><img class="sidebarMiniaturaNovedad" src="images/fotos/monte-hermoso.jpg" class="" alt=""></p>
+                                <h4 class="sidebarNovedadTitle">Casa en Monte Hermoso</h3>
+                                <p class="sidebarNovedadResumen">Para nuestros compañeros/as afiliados, contamos con casa en Monte Hermoso con capacidad para ocho personas...</p>
+                            </a>
+                        </li>
+
+                        <li class="sidebarNovedad">
+                            <a href="#">
+                                <p class="sidebarMiniaturaNovedad"><img class="sidebarMiniaturaNovedad" src="images/fotos/conciliacion.jpg" class="" alt=""></p>
+                                <h4 class="sidebarNovedadTitle">Se prorrogó la conciliacion obligatoria</h3>
+                                <p class="sidebarNovedadResumen">En el marco de la audiencia celebrada en el Ministerio de Trabajo de la Nación en el día de ayer, 7 de enero...</p>
+                            </a>
+                        </li>
+
+                        <li class="sidebarNovedad">
+                            <a href="#">
+                                <p class="sidebarMiniaturaNovedad"><img class="sidebarMiniaturaNovedad" src="images/fotos/bancaria_fachada.jpg" class="" alt=""></p>
+                                <h4 class="sidebarNovedadTitle">Asamblea en distintos bancos</h3>
+                                <p class="sidebarNovedadResumen">En el transcurso del corriente mes, se realizaron asambleas en los distintos bancos de la ciudad...</p>
+                            </a>
+                        </li>
+                        
+                        
+                    </ul>
+                </div>
+                
+                <h3 class="sidebarDestacados"><span>Mas leido</span></h3>
+                <div class="paddingContainer">
+                    <ul class="sidebarListaNovedades">
+                        <li class="sidebarNovedad">
+                            <a href="#">
+                                <p class="sidebarMiniaturaNovedad"><img class="sidebarMiniaturaNovedad" src="images/fotos/deportes.jpg" class="" alt=""></p>
+                                <h4 class="sidebarNovedadTitle">Torneo Deporte y Unidad Bancaria – La Pampa 2012</h3>
+                                <p class="sidebarNovedadResumen">El día 12 de Octubre una Delegación de nuestra Seccional, compuesta por 75 afiliados, viajó...</p>
+                            </a>
+                        </li>
+                        
+                        <li class="sidebarNovedad">
+                            <a href="#">
+                                <p class="sidebarMiniaturaNovedad"><img class="sidebarMiniaturaNovedad" src="images/fotos/monte-hermoso.jpg" class="" alt=""></p>
+                                <h4 class="sidebarNovedadTitle">Casa en Monte Hermoso</h3>
+                                <p class="sidebarNovedadResumen">Para nuestros compañeros/as afiliados, contamos con casa en Monte Hermoso con capacidad para ocho personas...</p>
+                            </a>
+                        </li>
+
+                        <li class="sidebarNovedad">
+                            <a href="#">
+                                <p class="sidebarMiniaturaNovedad"><img class="sidebarMiniaturaNovedad" src="images/fotos/conciliacion.jpg" class="" alt=""></p>
+                                <h4 class="sidebarNovedadTitle">Se prorrogó la conciliacion obligatoria</h3>
+                                <p class="sidebarNovedadResumen">En el marco de la audiencia celebrada en el Ministerio de Trabajo de la Nación en el día de ayer, 7 de enero...</p>
+                            </a>
+                        </li>
+
+                    </ul>                    
+                </div>
+
+                <!--<h3 class="sidebarDestacados"><span>Twitter</span></h3>-->
+                <div class="paddingContainer" style="height: auto; text-align: center">
+                    <img src="images/template/twitter.png" />
+                </div>
+                
+            </div>
+
+            
+            
+            
+            
+            <div id="mainContent" class="mainContent">
+
+            
+            
+                <div class="destacadoPostBrief">
+                    <div class="destacadoPostImageContainer">
+                        <img class="destacadoPostImage" src="images/fotos/monte-hermoso.jpg" />
+                    </div>
+                    <div class="destacadoPostContent">
+                        <h1 class="destacadoPostTitle">Casa Monte Hermoso</h1>
+                        <h2 class="destacadoPostCategoria">Notas</h2>
+                        <hr class="destacadoPostSeparador" />
+                        Para nuestros compa&ntilde;eros/as afiliados, contamos con casa en Monte Hermoso con capacidad para ocho personas, con todas las comodidades, TV, cable, patio con parrilla, a una cuadra del mar...
+                    </div>
+                    
+                    <div style="text-align: center; height: 35px;">
+                        <a href="#" class="destacadoPostButton destacadoPostButtonVerMas">ver más</a> 
+                    </div>
+                    
+                    <div class="destacadoPostBottom">
+                        <div class="floatLeft" style="width: 202px">
+                            <img src="images/template/social_icons.png" />
+                        </div>
+                    </div>
+                </div>
+                
+            
+                <div class="destacadoPostBrief">
+                    <div class="destacadoPostImageContainer">
+                        <img class="destacadoPostImage" src="images/fotos/conciliacion.jpg" />
+                    </div>
+                    <div class="destacadoPostContent">
+                        <h1 class="destacadoPostTitle">Se prorrogó la conciliacion obligatoria</h1>
+                        <h2 class="destacadoPostCategoria">Gremiales</h2>
+                        <hr class="destacadoPostSeparador" />
+                            En el marco de la audiencia celebrada en el Ministerio de Trabajo de la Nación en el día de ayer, 7 de enero, en virtud de la Conciliación Obligatoria dictada...
+                    </div>
+                    
+                    <div style="text-align: center; height: 35px;">
+                        <a href="#" class="destacadoPostButton destacadoPostButtonVerMas">ver más</a> 
+                    </div>
+                    
+                    <div class="destacadoPostBottom">
+                        <div class="floatLeft" style="width: 202px">
+                            <img src="images/template/social_icons.png" />
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="destacadoPostBrief">
+                    <div class="destacadoPostImageContainer">
+                        <img class="destacadoPostImage" src="images/fotos/bancaria_fachada.jpg" />
+                    </div>
+                    <div class="destacadoPostContent">
+                        <h1 class="destacadoPostTitle">Asamblea en distintos bancos</h1>
+                        <h2 class="destacadoPostCategoria">gremiales</h2>
+                        <hr class="destacadoPostSeparador" />
+                            En el transcurso del corriente mes, se realizaron asambleas en los distintos bancos de la ciudad. El día 2 banco Macro, día 4 banco ICBC...
+                    </div>
+                    
+                    <div style="text-align: center; height: 35px;">
+                        <a href="#" class="destacadoPostButton destacadoPostButtonVerMas">ver más</a> 
+                    </div>
+                    
+                    <div class="destacadoPostBottom">
+                        <div class="floatLeft" style="width: 202px">
+                            <img src="images/template/social_icons.png" />
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="destacadoPostBrief">
+                    <div class="destacadoPostImageContainer">
+                        <img class="destacadoPostImage" src="images/fotos/deportes.jpg" />
+                    </div>
+                    <div class="destacadoPostContent">
+                        <h1 class="destacadoPostTitle">Torneo Deporte y Unidad Bancaria – La Pampa 2012</h1>
+                        <h2 class="destacadoPostCategoria">deportivas</h2>
+                        <hr class="destacadoPostSeparador" />
+                            El día 12 de Octubre una Delegación de nuestra Seccional, compuesta por 75 afiliados, viajó a la ciudad de Santa Rosa (La Pampa) para participar...
+                    </div>
+                    
+                    <div style="text-align: center; height: 35px;">
+                        <a href="#" class="destacadoPostButton destacadoPostButtonVerMas">ver más</a> 
+                    </div>
+                    
+                    <div class="destacadoPostBottom">
+                        <div class="floatLeft" style="width: 202px">
+                            <img src="images/template/social_icons.png" />
+                        </div>
+                    </div>
+                </div>
+                
+
+                <div class="clear"></div>   
+                
+                <div class="sectionTitle"><span>Secciones</span></div>
+                
+                <div class="seccionesMain" style="background-image: url(images/template/NOTAS.jpg)">
+                    <h2>Notas</h2>
+                </div>
+                
+                <div class="seccionesMain" style="background-image: url(images/template/GREMIALES.jpg)">
+                    <h2>Gremiales</h2>
+                </div>
+
+                <div class="seccionesMain" style="background-image: url(images/template/ACCIONSOCIAL.jpg)">
+                    <h2>Acci&oacute;n Social</h2>
+                </div>
+                
+                <div class="seccionesMain" style="background-image: url(images/template/SALUD.jpg)">
+                    <h2>Salud</h2>
+                </div>
+                
+                
+                
+            </div> <!-- mainContent -->
+            
+            
+        </div> <!-- content -->
+        
+        <div class="clear"></div>   
+        
+        <div id="footerContainer" class="footerContainer" style="background-color: #00a178; height: 40px; margin-top: 0">
+            <div id="footer" class="footer">
+                <div class="floatLeft" style="width: 810px">
+                    <strong>Bancaria Bahia Blanca</strong> - Asociaci&oacute;n de Empleados de Banco.<br />
+                    Mitre 171/77 - Bahia Blanca - Provincia de Buenos Aires - Argentina. Tel: (0291)4526437 - Fax: 4550868
+                </div>
+                <div class="floatLeft" style="width: 150px; text-align: right">
+                    <br />
+                    Dise&ntilde;o: <a href="http://www.whitecat.com.ar" style="color: white;">Mauro Cifuentes</a>
+                </div>
+            </div>
+        </div>        
+        <div class="footerContainer" style="height: 10px; margin-top: 0"></div>
+
+        
+        
+    </body>
+</html>

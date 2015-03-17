@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/1613/bancaria/script/inc
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1660/bancaria/script/inc/config.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1601/bancaria/script/inc/.htaccess
+END
+includes.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1660/bancaria/script/inc/includes.php
+END
+underscore.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1600/bancaria/script/inc/underscore.php
+END
+config.php.SERVER
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1660/bancaria/script/inc/config.php.SERVER
+END
+class.ViewHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1607/bancaria/script/inc/class.ViewHelper.php
+END

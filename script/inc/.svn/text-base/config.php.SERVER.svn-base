@@ -1,0 +1,12 @@
+<?php 
+
+// CONFIGURATION SECTION ------------------------------------------------------------------------------
+    $defaults_database = Array("database" => "moonorongo_demos", 
+                            "url" => "localhost", 
+                            "username" => "moonorongo_demos", 
+                            "password" => "nJ3MZ9GI");
+                            
+    require_once($_SERVER["DOCUMENT_ROOT"] ."/script/inc/includes.php");
+    
+    const __NOTICIAS_POR_PAGINA__ = 10;
+?>

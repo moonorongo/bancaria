@@ -1,0 +1,12 @@
+<?php
+class ViewHelper {
+    
+    public static function subString($in, $cantCaracteres = 190) {
+        $in = substr($in, 0, $cantCaracteres);
+        $lastWhitespacePosition = strrpos($in, ' ');
+        $in = substr($in, 0, $lastWhitespacePosition);
+        return $in;
+    }
+    
+} // END CLASS
+?>

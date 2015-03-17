@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1634/bancaria/static/js/lib
+END
+moment.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1623/bancaria/static/js/lib/moment.min.js
+END
+refresh_dt.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1623/bancaria/static/js/lib/refresh_dt.js
+END
+jquery.dataTables.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1623/bancaria/static/js/lib/jquery.dataTables.min.js
+END
+datatable.delayQuery.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1623/bancaria/static/js/lib/datatable.delayQuery.js
+END
+underscore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1623/bancaria/static/js/lib/underscore-min.js
+END
+wcat.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1627/bancaria/static/js/lib/wcat.js
+END
+datatables.fnRedrawAjax.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1623/bancaria/static/js/lib/datatables.fnRedrawAjax.js
+END
+backbone.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1623/bancaria/static/js/lib/backbone.js
+END
+jquery-ui-1.10.3.custom.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1623/bancaria/static/js/lib/jquery-ui-1.10.3.custom.min.js
+END

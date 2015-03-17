@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1634/bancaria/static/js/lib/fckedit
+END
+ckeditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1630/bancaria/static/js/lib/fckedit/ckeditor.js
+END
+CHANGES.md
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1630/bancaria/static/js/lib/fckedit/CHANGES.md
+END
+LICENSE.md
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1630/bancaria/static/js/lib/fckedit/LICENSE.md
+END
+styles.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1630/bancaria/static/js/lib/fckedit/styles.js
+END
+config.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1665/bancaria/static/js/lib/fckedit/config.js
+END
+build-config.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1630/bancaria/static/js/lib/fckedit/build-config.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1630/bancaria/static/js/lib/fckedit/README.md
+END
+contents.css
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1630/bancaria/static/js/lib/fckedit/contents.css
+END
